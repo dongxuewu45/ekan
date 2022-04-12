@@ -1,0 +1,101 @@
+
+{
+    
+  "update": {
+    "title" : "更新",
+    "version" : "22.04.02",
+    "info" : "修复Pitaya部分视频不能播放<br>新增分辨率显示<br><font color=#FF0000>安装失败请卸载原版后重新安装</font><br>关注<font color=#FF0000>微信公众号:显而易看</font>查看更多更新日志",
+    "url" : "https://wwn.lanzout.com/ii40f02gx57e",
+    "visible" : false,
+    "cancelable" : false
+  },
+  
+  "cecf0df7fc0e2972cee651419177ac87":"1fce7405e1e9e18543cd5095ce84a677",
+  "16b4c7dc0b7f86e533036d3222bf513f":"620345857628b8197a3f931f47b968ca",
+  "76e800de0f4052ad77c5b8dc741efdef":"2e1f06d0458395f790c1fdea5cdc8ce3",
+  "c481104876efc3709530eaa512186d9c":"ee2b5b6fd67426e664d3aa3f86fe2802",
+  "MjEuMTAuMTI=":"MjE3NTU0ODg=",
+  "MjA0MjYyMjI=":"MjA0MjYzOTI=",
+  "MjEuMTIuMDQ=":"MjE2Mzk2OTU=",
+  "MjIuMDEuMTg=":"MjM3OTU1MzA=",
+  "MjIuMDEuMTk=":"MjIwNjk3MDQ=",
+  "MjIuMDMuMDQ=":"MjM3ODY4ODE=",
+  "MjIuMDMuMTA=":"MjM3ODY4ODI=",
+  "MjIuMDQuMDI=":"MjM0NTIxMDc=",
+  "notice": {
+    "title" : "公告",
+    "version" : "22.03.2",
+    "info" : "首页不显示正在修复中，<font color=#FF0000>目前搜索正常，可以使用搜索功能</font>,bug正在修复中！",
+    "time": 3000,
+    "visible" : false
+
+  },
+
+
+
+  "noticeForHome": [
+        {
+      "tips": "<font color=#FF0000>寨主修改</font>",
+      "url": ""
+    },
+            {
+      "tips": "<font color=#10c3a6>寨主修改</font>",
+      "url": "about:blank"
+    }
+  ],
+  
+  "subscribes": [
+    
+   
+  ], 
+  "subscribeManager": {
+    "update": "22.03.05",
+    "push": [
+{
+        "name": "寨主",
+        "link": "EkanPro://eyJuYW1lIjoi5a+o5Li7IiwiZGVmYXVsdCI6Imh0dHBzOlwvXC9naXRlZS5jb21cL2pnc3p6MzM2MTY2NTI5OFwvamd6eVwvcmF3XC9tYXN0ZXJcL3N1YnNjcmliZS5qc29uIiwic3BhcmUiOiJodHRwczpcL1wvY29kZWJlcmcub3JnXC8zMzYxNjY1Mjk4XC9la2FucHJvXC9yYXdcL2JyYW5jaFwvbWFpblwvc3Vic2NyaWJlLmpzb24ifQ=="
+      }
+    ],
+    
+    "forbid": ["订阅1","订阅2"],
+    "close": ["订阅1","订阅2"],
+    "open": ["订阅1","订阅2"],
+    "sort": ["订阅1","订阅2"]
+  },
+
+  
+  
+  "adSwitch": {
+       "splash": false,
+        "banner": false,
+        "insert": false,
+        "reward": false,
+        "information": false
+  },
+
+
+
+  "setting": {
+    "openSuggest": false
+  },
+
+
+
+  "noJump": [
+    "v2.thefatherofsalmon.com",
+    "gmanager.php?openread="
+  ],
+  
+  
+ 
+
+
+  "shieldManager": {
+      "下架": {
+      "year": "2021",
+      "type": "剧集"
+  }
+  }
+}
+
+
